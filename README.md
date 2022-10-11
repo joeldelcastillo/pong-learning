@@ -42,4 +42,4 @@ Install dependencies
 
 - [Aadil Aktar](https://github.com/aadilakhtar3402)
 - [Joel del Castillo](https://github.com/joeldelcastillo)
-- [Diego Huerta](https://github.com/CamilaZambrano)
+- [Diego Huerta]()
