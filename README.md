@@ -1,16 +1,8 @@
 # Deep Reinforcement Learning for Atari Pong: A survey
 
-#### CMPT-310
-
-#### Fall 2022
-
-### Introduction to Artificial Intelligence
-
 ## Final Project
 
-Comparing Deep Reinforcement Learning Methods such as DQL, A2C, and SARSA, for Pong can help determine which methods are better at solving this specific credit assignment problem
-
-This project has a focus on using methods that aim to produce human-like behavior in the Atari Game: Pong by changing one of the simple characteristics that RL algorithms take for granted: teach a model based on aleatory position. We will discuss the challenges in learning motor skills and approach this problem from: Teaching the model based on acceleration variation, rather than position variations. Besides, we will define an heuristic function that will punish a high number of action variations in time, and finally, we will outline some promising directions for future practice in this area
+Comparing Deep Reinforcement Learning Methods such as DQL, and SARSA, for Pong can help determine which methods are better at solving this specific credit assignment problem
 
 ## Run Locally
 
